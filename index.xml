@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo tranquilpeak theme</title>
-    <link>https://liaowenlongcn.github.com/</link>
+    <link>https://liaowenlongcn.github.io/</link>
     <description>Recent content on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Mar 2024 17:55:49 +0800</lastBuildDate>
-    <atom:link href="https://liaowenlongcn.github.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://liaowenlongcn.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>https://liaowenlongcn.github.com/post/first-post/</link>
+      <link>https://liaowenlongcn.github.io/post/first-post/</link>
       <pubDate>Wed, 27 Mar 2024 17:55:49 +0800</pubDate>
-      <guid>https://liaowenlongcn.github.com/post/first-post/</guid>
+      <guid>https://liaowenlongcn.github.io/post/first-post/</guid>
       <description></description>
     </item>
   </channel>
